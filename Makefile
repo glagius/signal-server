@@ -2,7 +2,7 @@ install:
 	npm install
 
 develop:
-	npm run start:dev
+	npm run start:debug
 
 build:
 	npm run build
